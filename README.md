@@ -1,19 +1,26 @@
 
 Deadline for Project is in last week of JANUARY.
 
+  Menu:
+  
+    Members:
+    Karl Romero
+    
   Hangman:
   
     Members:
-      __
-      __
+     Concepcion
+     Romero
+     Salinas
     Details:
       5 Words
     
   Guess the Number:
     
     Members:  
-      __      
-      __
+      Mark Lester Comia
       
     Details:
       5 Trials (?)
+
+    
