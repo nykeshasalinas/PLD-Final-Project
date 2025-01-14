@@ -1,4 +1,4 @@
-from games import guessTheNumber, hangman, aboutTheDevs
+from compiled-games import guessTheNumber, hangman, aboutTheDevs
 
 # Create a Menu
 
